@@ -1,0 +1,1 @@
+Transtillaspis crepera is a species of moth of the family Tortricidae. It is found in Napo Province, Ecuador.
