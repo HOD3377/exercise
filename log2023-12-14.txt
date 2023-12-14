@@ -1,0 +1,103 @@
+[33mcommit 3bc250f966994d424521a1c418cda3a917a67132[m[33m ([m[1;36mHEAD -> [m[1;32minstructions[m[33m, [m[1;31morigin/instructions[m[33m)[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Thu Dec 14 11:22:29 2023 +0100
+
+    Added one line of instruction for the toothbrush
+
+[33mcommit 6ee0a6a5f737f07a5de6703e56556106a21f002f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Tue Dec 12 16:21:37 2023 +0100
+
+    change to Karel, automatic, wildlife and trees, and leading capital letter
+
+[33mcommit 4637152a05877152cb6e645e1a04c44ee9690b33[m
+Merge: 511b01a f0f9d25
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Fri Dec 8 17:14:37 2023 +0100
+
+    Merged changes, name is Karel and description is automatic
+
+[33mcommit 511b01aa94a62208823e5d64ddab3bd6ab64c230[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Fri Dec 8 17:09:54 2023 +0100
+
+    change from automated to automatic
+
+[33mcommit f0f9d25654d137b0a12c02330a918c889b09701d[m
+Author: HOD3377 <138699204+HOD3377@users.noreply.github.com>
+Date:   Fri Dec 8 17:08:41 2023 +0100
+
+    Updated name to Karel
+    
+    Name Pavel > Karel
+
+[33mcommit ad76181c381c72b22fc57035e37b7c9bb5a4cba1[m
+Merge: af9942e f88c83f
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Fri Dec 8 17:05:21 2023 +0100
+
+    Merge branch 'main' of https://github.com/HOD3377/exercise
+
+[33mcommit af9942e65d25552c293996faa7b11d28864d7575[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Fri Dec 8 17:05:04 2023 +0100
+
+    change from github, trees added as safe
+
+[33mcommit f88c83fc753df3d352df1848fc30e224eb1717c0[m
+Author: HOD3377 <138699204+HOD3377@users.noreply.github.com>
+Date:   Fri Dec 8 17:01:15 2023 +0100
+
+    Added trees after wildlife
+    
+    product is now also safe for trees
+
+[33mcommit 91dcc32f409f22938c1ffebf465889a90e37bac5[m
+Author: HOD3377 <138699204+HOD3377@users.noreply.github.com>
+Date:   Fri Dec 8 16:47:05 2023 +0100
+
+    Added wildlife
+    
+    Extended target group to include also wildlife
+
+[33mcommit 0483572489e94da42c3a381538c576fa1da79a3e[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Thu Dec 7 17:18:59 2023 +0100
+
+    removing file exercise6.md
+
+[33mcommit f396d8015e030b1022ad8f47c4692b9472e7a385[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Thu Dec 7 17:17:06 2023 +0100
+
+    deleted file ex6.md
+
+[33mcommit 70611b4f8b2af9a6753544a211a733c7da34ea50[m[33m ([m[1;33mtag: exerTag[m[33m)[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Thu Dec 7 17:10:26 2023 +0100
+
+    Change name of file ex6.md to exercise6.md
+
+[33mcommit d55c38e27811cd0fc9d9b0b6853c5dfdc7f0e6c8[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Thu Dec 7 17:03:39 2023 +0100
+
+    added file ex6.md with a random sentence
+
+[33mcommit 6bc34a537e5cd919f5927c2f167602e149a93f63[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Thu Dec 7 14:43:24 2023 +0100
+
+    Changed wording about safety and intended user group
+
+[33mcommit 4fe36e5b71b49ed074f19b604d89a0aa4cf4921a[m
+Author: Helena Örnehed <helena.ornehed@tetrapak.com>
+Date:   Wed Dec 6 15:44:28 2023 +0100
+
+    Added docs.md
+
+[33mcommit 3e608113fa9eb13e8b3be19f10fae75dbbed1f33[m
+Author: HOD3377 <138699204+HOD3377@users.noreply.github.com>
+Date:   Tue Dec 5 10:37:14 2023 +0100
+
+    Initial commit
